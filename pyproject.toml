@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "nlp"
+version = "0.1.0"
+description = "nlp project for uni"
+authors = ["Antonis Lempesis"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+numpy = "^2.2.4"
+matplotlib = "^3.10.1"
+torch = "^2.6.0"
+scikit-learn = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
