@@ -12,7 +12,8 @@ In this project, we will work with the two provided texts and aim to reconstruct
 
 - **Python 3.10** (Core Language)
 - **Jupyter Notebooks** (Interactive code and notes)
-- **NLTK**, **Pandas**, **Numpy**, **Matplotlib**, **Scikit-Learn**, **PyTorch**, **Transformers**, **Sentencepiece**, **Protobuf**, **Seaborn**, **Sentence-Transformers**, **Genism**
+- **NLTK**, **Pandas**, **Numpy**, **Matplotlib**, **Scikit-Learn**, **PyTorch**, **Transformers**, **Sentencepiece**,
+- **Protobuf**, **Seaborn**, **Sentence-Transformers**, **Genism**
 - **Poetry** (for dependency management)
 - **Conda** (for environment considerations)
 - **Hugging Face** (for specific use cases)
