@@ -26,6 +26,7 @@ In this project, we will work with the two provided texts and aim to reconstruct
   - Learn about Language Models and how to use them
   - Implement NLP pipelines
   - Experiment with text reconstruction and how to optimize it
+  - Learn how to use virtual environments
     
   Relevant Sources
   - AutoQA: From Databases To QA Semantic Parsers With Only Synthetic Training Data [arXiv:2010.04806v2](https://arxiv.org/abs/2010.04806v2)[cs.CL]
