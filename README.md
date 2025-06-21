@@ -19,8 +19,7 @@ In this project, we will work with the two provided texts and aim to reconstruct
 - **Hugging Face** (for specific use cases)
 
 ---
-  Documentation
-  - 
+  [Documentation](https://github.com/AntoLemp/nlp_exercise/blob/main/documentation.pdf)
   
   Learning Outcomes
   - Learn about Language Models and how to use them
